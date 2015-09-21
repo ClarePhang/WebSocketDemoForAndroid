@@ -1,0 +1,6 @@
+GET / HTTP/1.1
+host: iot.espressif.cn:9000
+upgrade: websocket
+connection: Upgrade
+sec-websocket-version: 13
+sec-websocket-key: vsyL8iCgqntGG9d/YEdckg==

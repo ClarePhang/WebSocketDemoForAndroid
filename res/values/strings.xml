@@ -1,0 +1,19 @@
+<resources>
+
+    <!-- UI text -->
+    <string name="app_name">WebSocketDemo</string>
+    <string name="textview_state_title">State:</string>
+    <string name="button_connect_title">Connect</string>
+    <string name="button_disconnect_title">Disconnect</string>
+    <string name="button_send_random_message_title">Send Random Message</string>
+    <string name="button_subscribe_title">Subscribe</string>
+
+    <!-- other text -->
+    <string name="state_connect">Connect</string>
+    <string name="state_disconenct">Disconnect</string>
+    <string name="state_subscribe">Subscribe</string>
+    <string name="state_unsubscribe">Unsubscribe</string>
+    <string name="textview_send_status">send random message status:</string>
+    <string name="app_version">v1.0.0</string>
+
+</resources>
