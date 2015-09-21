@@ -88,7 +88,6 @@ public class EspWebSocketClientImpl implements EspWebSocketConnection {
 		if (mWebSocketClient != null) {
 			// close the web socket client immediately
 			mWebSocketClient.close();
-			// mWebSocketClient.getConnection().close(CloseFrame.ABNORMAL_CLOSE);
 			mWebSocketClient = null;
 		}
 	}
